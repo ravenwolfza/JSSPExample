@@ -1,4 +1,4 @@
-# Random String Generator Example
+# Random String Generator JSSP Example
 
 In this example we first define the **metadata** section including a **service key**. Then the **ondescribe**
 section describes an **object (randomstring)** with a **property (returnString)** and a **method (generateCode)**
