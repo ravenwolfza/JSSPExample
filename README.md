@@ -13,6 +13,13 @@ based on the **configuration value** and **input parameter**.
 
 ## Getting Started
 
+This template requires [Node.js](https://nodejs.org/) v12.14.1+ to run.
+Install the dependencies and devDependencies:
+
+```bash
+npm install
+```
+
 This example is built on the K2 TypeScript Broker Template. Find information on
 the JavaScript Service Provider in the K2 Cloud product documentation here:
 https://help.k2.com/onlinehelp/k2cloud/DevRef/current/Default.htm#Extend/JS-Broker/JSServiceBroker.htm
